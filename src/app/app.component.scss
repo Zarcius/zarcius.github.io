@@ -1,0 +1,28 @@
+.title {
+    width: 100%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-size: 3rem;
+    font-family: sans-serif;
+}
+.button {
+    display: block;
+    width: max-content;
+    margin: 10% auto;
+    border: none;
+    text-decoration: none;
+    font-size: 2rem;
+    background-color: #0F9BFF;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 5%;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
+
+}
+.button:hover {
+    background-color: #1EA1FF;
+}
+.button:active {
+    background-color: #0A6CB2;
+}
